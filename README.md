@@ -14,8 +14,8 @@
 
 ## 🚀 Languages I primarily work with:
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
             alt="html5" />
@@ -37,7 +37,7 @@
 
 ## 🚀 Languages and tools I am familiar with:
 
-<p align="center">
+<p align="left">
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="bootstrap" />
