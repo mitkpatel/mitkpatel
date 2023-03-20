@@ -54,10 +54,6 @@
         <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
             alt="react" />
     </a>
-    <a href="https://vuejs.org" target="_blank">
-        <img src="https://img.shields.io/badge/vue-8DD6F9.svg?style=for-the-badge&logo=vue&logoColor=black"
-            alt="vue" />
-    </a>
     <a href="https://jquery.com/" target="_blank">
         <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
             alt="jquery" />
